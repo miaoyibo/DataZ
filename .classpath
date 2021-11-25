@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="ant-1.10.8.jar"/>
+	<classpathentry kind="lib" path="commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="javacsv-2.0.jar"/>
+	<classpathentry kind="lib" path="smbj-0.10.0.jar"/>
+	<classpathentry kind="lib" path="xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="beautyeye_lnf.jar"/>
+	<classpathentry kind="lib" path="D:/MyWork/DataZ/xlsx-streamer-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/MyWork/DataZ/poi-3.17.jar" sourcepath="C:/Users/miaoyibo/Desktop/数据审核测试/数据审核测试/源文件/poi-3.17-sources.jar"/>
+	<classpathentry kind="lib" path="D:/MyWork/DataZ/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/MyWork/DataZ/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/MyWork/DataZ/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/MyWork/DataZ/slf4j-api-1.7.32.jar"/>
+	<classpathentry kind="lib" path="D:/MyWork/DataZ/slf4j-simple-1.7.32.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
