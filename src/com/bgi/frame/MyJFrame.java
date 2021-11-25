@@ -14,9 +14,7 @@ import javax.swing.UIManager;
 import com.bgi.util.LogUtil;
 
 public class MyJFrame extends JFrame {
-	/**
-	 * 
-	 */
+	
 	private static final long serialVersionUID = 1L;
 	JMenuItem passwordhelp;
 	JMenuItem tips;
